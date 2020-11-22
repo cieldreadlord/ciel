@@ -1,0 +1,195 @@
+.container {
+    background-image:url('ciel.png');
+    background-color:transparent;
+    width:1200px;
+    height:1200px;
+    position:relative;
+}
+
+.dp {
+    position:absolute;
+    width:160px;
+    height:220px;
+    left:520px;
+    top:220px;
+    background-image:url('https://www.imvu.com/catalog/web_av_pic.php?u=142405247');
+}
+
+.m1 {
+    position:absolute;
+    top:509px;
+    left:154px;
+    width:892px;
+    height:532px;
+}
+
+p {
+    color:rgb(92, 92, 92);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:12px;
+}
+
+h1 {
+    text-align:center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:#4cddfa;
+    font-size:28px;
+    text-transform:uppercase;
+    border-bottom:1px solid #4cddfa;
+    line-height:25px;
+}
+
+h2 {
+    background-color:#772cfa;
+    color:#fff;
+    line-height:8px;
+    font-size:8px;
+    font-family:'Small Fonts', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-transform:uppercase;
+    padding-top:3px;
+    padding-bottom:2px;
+    padding-left:2px;
+}
+
+b {
+    color:#5b31f7;
+}
+
+i {
+    color:#d837fa;
+}
+
+u {
+    color:#4cddfa;
+}
+
+s {
+    color:#005cfa;
+}
+
+a {
+    color:#c94eff !important;
+    text-decoration:none !important;
+    text-transform:uppercase !important;
+    transition:.5s ease-in-out !important;
+    -moz-transition: .5s ease-in-out !important;
+    -o-transition: .5s ease-in-out !important;
+    -webkit-transition: .5s ease-in-out !important;
+}
+
+a:hover {
+    text-decoration: none !important;
+    letter-spacing: 2px !important;
+    text-transform:uppercase !important;
+    color:#4cddfa !important;
+    font-style:italic !important;
+    transition: .5s ease-in-out !important;
+    -moz-transition: .5s ease-in-out !important;
+    -o-transition: .5s ease-in-out !important;
+    -webkit-transition: .5s ease-in-out !important;
+}
+
+a.nav {
+    text-decoration: none !important;
+    color:#fff !important;
+    font-style:italic !important;
+    transition: .5s ease-in-out !important;
+    -moz-transition: .5s ease-in-out !important;
+    -o-transition: .5s ease-in-out !important;
+    -webkit-transition: .5s ease-in-out !important;
+}
+
+a.nav:hover {
+    text-decoration: none !important;
+    letter-spacing: 2px !important;
+    color:#4d39fa !important;
+    font-style:italic !important;
+    transition: .5s ease-in-out !important;
+    -moz-transition: .5s ease-in-out !important;
+    -o-transition: .5s ease-in-out !important;
+    -webkit-transition: .5s ease-in-out !important;
+}
+
+.b1 {
+    position:absolute;
+    top:395px;
+    left:127px;
+    width:200px;
+    height:54px;
+    border:none;
+    background-color:transparent;
+    border: none;
+    color:transparent;
+    text-align: center;
+    font-size: 16px;
+    opacity: 0.6;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+
+}
+
+.b2 {
+    position:absolute;
+    border:none;
+    background-color:transparent;
+    background-image:url("msg.png");
+    border: none;
+    color:transparent;
+    text-align: center;
+    font-size: 16px;
+    opacity: 0.6;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    top:214px;
+    left:706px;
+    height:48px;
+    width:48px;
+}
+
+.b3 {
+    position:absolute;
+    border:none;
+    background-color:transparent;
+    background-image:url("add.png");
+    border: none;
+    color:transparent;
+    text-align: center;
+    font-size: 16px;
+    opacity: 0.6;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    top:262px;
+    left:706px;
+    height:48px;
+    width:48px;
+    border:none;
+    background-color:transparent;
+}
+
+.b4 {
+    position:absolute;
+    border:none;
+    background-color:transparent;
+    background-image:url("blk.png");
+    border: none;
+    color:transparent;
+    text-align: center;
+    font-size: 16px;
+    opacity: 0.6;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    top:310px;
+    left:706px;
+    height:48px;
+    width:48px;
+    border:none;
+    background-color:transparent;
+}
